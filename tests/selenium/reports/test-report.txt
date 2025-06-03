@@ -1,0 +1,12 @@
+Test: should successfully submit form with all fields
+Status: PASSED
+Duration: 6633ms
+
+------------------------------------
+
+Test: should fail deliberately to demonstrate reporting
+Status: FAILED
+Duration: 23ms
+Error: This test is designed to fail for demonstration purposes
+Screenshot: FAILED_should fail deliberately to demonstrate reporting_2025-06-03T10-14-23-922Z.png
+------------------------------------
